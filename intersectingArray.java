@@ -7,7 +7,6 @@ public class intersectingArray {
     static int n,m;
     static HashSet<Integer> set = new HashSet<>();
     static ArrayList<Integer> result=new ArrayList<>();
-
     public static void getData(){
         System.out.println("Enter the number of elements of first array");
          n= sc.nextInt();
